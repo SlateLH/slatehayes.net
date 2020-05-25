@@ -1,0 +1,15 @@
+{
+  "name": "slatehayes",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlateLH/slatehayes.git"
+  },
+  "author": "Slate Hayes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlateLH/slatehayes/issues"
+  },
+  "homepage": "https://github.com/SlateLH/slatehayes#readme"
+}
